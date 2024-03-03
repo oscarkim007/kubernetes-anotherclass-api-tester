@@ -1,0 +1,1 @@
+# kubernetes-anotherclass-api-tester
